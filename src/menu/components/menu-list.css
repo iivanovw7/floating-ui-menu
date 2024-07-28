@@ -1,0 +1,8 @@
+.menu-list {
+	background: var(--menu-list-background);
+	backdrop-filter: blur(10px);
+	padding: 4px;
+	border-radius: 6px;
+	border: 1px solid var(--menu-active-unfocused);
+	outline: 0;
+}

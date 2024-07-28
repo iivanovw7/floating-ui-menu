@@ -1,0 +1,15 @@
+:root {
+	--menu-highlighted: rgb(2, 156, 253);
+	--menu-active-unfocused: rgb(215, 220, 229);
+	--menu-text-color: rgb(255, 255, 255);
+	--menu-text-color-disabled: rgb(188, 186, 199);
+	--menu-list-background: rgb(255, 255, 255);
+	--menu-label-color: rgb(101, 99, 109);
+}
+
+html,
+body {
+	block-size: 100%;
+	font-family: sans-serif;
+	padding: 0 15px;
+}

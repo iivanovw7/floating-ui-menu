@@ -1,0 +1,11 @@
+.menu-label {
+	margin: "4px 0";
+	inline-size: 100%;
+	color: var(--menu-label-color);
+	font-size: 12px;
+	line-height: 25px;
+	display: flex;
+	align-items: center;
+	gap: 4px;
+	padding: 2px 4px;
+}
